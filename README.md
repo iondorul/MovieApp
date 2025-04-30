@@ -7,4 +7,4 @@ Un API REST rapid și ușor de folosit, dezvoltat în ASP.NET Core, care oferă 
 🎯 Respectă principiile SOLID – calitate și stabilitate garantată.
 📚 Documentație Swagger – claritate maximă în testare și integrare.
 🌈 Perfect pentru Frontend-uri React, Angular, Vue – integrări rapide și fără stres.
-🎉 Ușor de utilizat, rapid de integrat, distractiv de explorat!
+🎉 Ușor de utilizat, rapid de integrat, distractiv de explorat
